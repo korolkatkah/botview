@@ -11,9 +11,13 @@ requirements python3^
 the csv files should keep the same format
 
 cd/path/
+
 !!!
+
 pip install -r requirements.txt
+
 pip install pyautogui
+
 pip install selenium_authenticated_proxy
 
 
